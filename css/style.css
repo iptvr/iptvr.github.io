@@ -67,7 +67,7 @@ body {
 }
 
 a {
-  color: #b71717;
+  color: #9e9e9e;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -83,7 +83,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6, figure {
-  color: #000;
+  color: rgb(255, 255, 255);
   font-family: "Droid Sans", Arial, sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
@@ -380,7 +380,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .gtco-cover .display-t,
 .gtco-cover .display-tc {
-  height: 900px;
+  height: 700px;
   display: table;
   width: 100%;
 }
